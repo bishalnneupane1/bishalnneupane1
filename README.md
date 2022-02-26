@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Neupane</h1>
 <h3 align="center">A passionate Full-Stack developer as Well as Data Scientist from Pokhara, Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/colourful-illustration-programmer-working_5483080.htm#query=programmer&position=5&from_view=search" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalnneupane1&label=Profile%20views&color=0e75b6&style=flat" alt="bishalnneupane1" /> </p>
 
